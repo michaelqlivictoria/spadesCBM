@@ -1,3 +1,5 @@
+###test!!!
+
 #------------------------------------------------------
 # rewrite of the spadesCBMcore post c++ fix
 # run independently spadesCBMdefaults.Rmd, spadesCBMinputs.Rmd, and
